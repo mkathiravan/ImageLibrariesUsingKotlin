@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:padding="20dp"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/loadImage"
+        android:layout_width="match_parent"
+        android:text="load Image"
+        android:layout_height="wrap_content"/>
+
+
+    <Button
+        android:id="@+id/universal_image_callback"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:text="Universal Image Callback"
+        android:layout_height="wrap_content"/>
+
+
+    <Button
+        android:id="@+id/adjust_imagesize"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:text="Adjust Image Size"
+        android:layout_height="wrap_content"/>
+
+
+    <Button
+        android:id="@+id/cache_memory"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:text="Cache Memory Image"
+        android:layout_height="wrap_content"/>
+
+
+    <Button
+        android:id="@+id/image_fail"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:text="Image Fail"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/local_image"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:text="Local Image"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/loadImage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Load Image"/>
+
+    <Button
+        android:id="@+id/gifImage"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:text="GIF Image"/>
+
+    <Button
+        android:id="@+id/resizeImage"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:text="Resize Image"/>
+
+    <Button
+        android:id="@+id/placeholderImage"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:text="PlaceHolder/Error Image"/>
+
+    <Button
+        android:id="@+id/centercrop_Image"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:text="Center Crop Image"/>
+
+
+    <Button
+        android:id="@+id/fitcenter_Image"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:text="Fit Center Image"/>
+
+
+    <Button
+        android:id="@+id/roundedtrans_Image"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:text="Rounded Corner Transformation"/>
+
+    <Button
+        android:id="@+id/circlecrop_Image"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:text="Circel Crop Transformation"/>
+
+
+    <Button
+        android:id="@+id/blur_Image"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:text="Blur Effect Transformation"/>
+
+    <Button
+        android:id="@+id/multiple_transform_image"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:text="Multiple Transformation"/>
+</LinearLayout>
+
+</ScrollView>

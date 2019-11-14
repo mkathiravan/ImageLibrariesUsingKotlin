@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/red"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="30dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/picasso_loadImage"
+        android:layout_width="match_parent"
+        android:background="@drawable/rounded_shape"
+        android:layout_height="wrap_content"
+        android:text="Load Image"/>
+
+    <Button
+        android:id="@+id/picasso_imageCrop"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/rounded_shape"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Image Crop"/>
+
+    <Button
+        android:id="@+id/picasso_imageres"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:background="@drawable/rounded_shape"
+        android:layout_height="wrap_content"
+        android:text="Image From Local"/>
+
+    <Button
+        android:id="@+id/picasso_placeholder"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/rounded_shape"
+        android:text="Place holder"
+        android:layout_height="wrap_content"/>
+
+
+    <Button
+        android:id="@+id/picasso_blurtransformation"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/rounded_shape"
+        android:text="Blur Transformation"
+        android:layout_height="wrap_content"/>
+
+
+    <Button
+        android:id="@+id/picasso_greytransformation"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/rounded_shape"
+        android:text="Grey Transformation"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/picasso_roundedcornertransformation"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/rounded_shape"
+        android:text="Rounded Corner Transformation"
+        android:layout_height="wrap_content"/>
+
+
+    <Button
+        android:id="@+id/picasso_masktransformation"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/rounded_shape"
+        android:text="Mask Transformation"
+        android:layout_height="wrap_content"/>
+
+
+    <Button
+        android:id="@+id/picasso_circleransformation"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/rounded_shape"
+        android:text="CircleCrop Transformation"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/picasso_ribbonColor"
+        android:layout_width="match_parent"
+        android:text="Ribbon Color"
+        android:background="@drawable/rounded_shape"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/picasso_offline"
+        android:layout_width="match_parent"
+        android:text="Offline Mode"
+        android:background="@drawable/rounded_shape"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
+
+</ScrollView>
