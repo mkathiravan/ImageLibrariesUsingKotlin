@@ -143,3 +143,20 @@ Other features that Glide support but not Picasso:
 
 a) Animated GIF support
 b) Thumbnail support
+
+
+![image](https://user-images.githubusercontent.com/39657409/68864096-8c22fe80-0716-11ea-96a2-d6fb4b35195b.png)
+
+![image](https://user-images.githubusercontent.com/39657409/68864121-980ec080-0716-11ea-8330-ec29e1030d22.png)
+
+![image](https://user-images.githubusercontent.com/39657409/68864158-a5c44600-0716-11ea-8447-cfa461e3f41f.png)
+
+![image](https://user-images.githubusercontent.com/39657409/68864181-b1b00800-0716-11ea-890c-3922dd1df8a3.png)
+
+![image](https://user-images.githubusercontent.com/39657409/68864208-bd9bca00-0716-11ea-8c14-0f85e5dae6c0.png)
+
+![image](https://user-images.githubusercontent.com/39657409/68864241-cdb3a980-0716-11ea-98ee-2a58899035ad.png)
+
+![image](https://user-images.githubusercontent.com/39657409/68864263-db692f00-0716-11ea-8039-a94120de3a22.png)
+
+![image](https://user-images.githubusercontent.com/39657409/68864286-e45a0080-0716-11ea-9f85-b3c62e03c3f3.png)
